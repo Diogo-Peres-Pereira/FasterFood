@@ -15,18 +15,24 @@ administração dos serviços.
 ## Modelo conceitual
 ![WhatsApp Image 2023-11-04 at 13 37 56](https://github.com/Diogo-Peres-Pereira/FasterFood/assets/111434541/7269f0d8-1d52-4e73-8401-210e6bc7bc4e)
 
+# Funcionalidades 
+## Configuração:
+- CRUD dos pedidos
+- CRUD do usuário
+- CRUD do estoque
+- CRUD dos pagamentos
+- Sistema de cadastro e login de usuários
+
+## Condução:
+- Automatização de gerenciamento de pedidos e estoque;
+- Atualização automática do estoque ao realizar pedidos;
+- Validação automática dos tipos de usuário;
+
 # Tecnologias utilizadas
 ## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -63,3 +69,19 @@ yarn install
 
 # executar o projeto
 yarn start
+```
+# Análise:
+- o Notificar quando os itens do estoque estiverem próximos da validade ou
+  em falta;
+- Dashboard contendo todas as informações gerenciais, contendo
+  informações para definir tomadas de decisões;
+- Extração de relatórios;
+- Recebimento de feedbacks dos clientes no retorno dos pedidos;
+
+ # Autor
+ Nome: Lucas Eiji
+- RGM: 11221104159
+- Nome: Jhonathan Moraes da Cunha
+- RGM: 11221103939
+- Nome: Diogo Teles Pereira
+- RGM: 11221102045
