@@ -12,7 +12,6 @@ administração dos serviços.
 
 ## Layout web
 
-
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
