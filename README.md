@@ -1,4 +1,4 @@
-# FavtFood
+# FastFood
 [![NPM](https://img.shields.io/npm/l/react)](https://https://github.com/Diogo-Peres-Pereira/FasterFood/blob/main/LICENSE) 
 
 # Sobre o projeto
