@@ -13,7 +13,7 @@ administração dos serviços.
 ## Layout web
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![WhatsApp Image 2023-11-04 at 13 37 56](https://github.com/Diogo-Peres-Pereira/FasterFood/assets/111434541/7269f0d8-1d52-4e73-8401-210e6bc7bc4e)
 
 # Tecnologias utilizadas
 ## Back end
